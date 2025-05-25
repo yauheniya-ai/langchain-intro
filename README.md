@@ -1,6 +1,6 @@
 # Introduction to LangChain
 
-![agent_langchain-intro.png](./assets/agent_langchain-intro.png)
+![agent_langchain-intro-overviw.png](./assets/agent_langchain-intro-overview.png)
 
 This project demonstrates how to extract structured data from legal documents using LangChain, focusing on:
 
