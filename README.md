@@ -15,7 +15,7 @@ This project demonstrates how to extract structured data from legal documents us
 git clone git@github.com:yauheniya-ai/langchain-intro.git
 cd langchain-intro
 ```
-Optional: install `uv` — a new, ultra-fast Python package manager that installs packages much faster than `pip. 
+Optional: install `uv` — a new, ultra-fast Python package manager that installs packages much faster than `pip`.
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh # macOS/Linux
 powershell -ExecutionPolicy ByPass -c `
