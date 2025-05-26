@@ -39,4 +39,4 @@ Explore the notebook by opening `langchain-intro.ipynb` — either directly in y
 Happy coding!
 
 ## Next steps
-Future tutorials will explore vector databases, embeddings, and semantic search.
+Future tutorials will explore embeddings, vector databases, and semantic search.
